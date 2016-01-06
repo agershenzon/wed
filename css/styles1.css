@@ -22,3 +22,20 @@ h1.head {
   font-style: italic;
   text-align: center;
 }
+
+.important {
+  color: red;
+}
+
+.highlight {
+  color: red;
+}
+.fish-type {
+  color: blue;
+}
+
+.fish {
+  font-size: 50px;
+  font-style: oblique;
+  text-align: center;
+}

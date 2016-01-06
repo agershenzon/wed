@@ -1,0 +1,17 @@
+.one{
+  text-align: center;
+}
+p.two {
+  text-align: center;
+  color: red;
+  font-style: italic;
+  font-family: fantasy;
+}
+p.three {
+  text-align: center;
+  font-family: cursive;
+  font-size: 24px;
+}
+h2 {
+  text-align: center;
+}
