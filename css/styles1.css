@@ -22,3 +22,7 @@ h1.head {
   font-style: italic;
   text-align: center;
 }
+.column {
+  width: 300px;
+  float: left;
+}

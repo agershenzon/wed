@@ -1,0 +1,33 @@
+
+h2 {
+  text-align: center;
+}
+
+.column {
+  width: 250px;
+  float: right;
+}
+p {
+  font-size: 15px;
+  font-family: cursive;
+  font-style: italic;
+}
+h1 {
+  text-align: center;
+  text-decoration: underline;
+  font-size: 60px;
+}
+.class {
+  border: 2px solid blue;
+  padding: 5px;
+  margin: 5px;
+  background-color: orange;
+  padding: 10px;
+}
+.class2 {
+  border: 2px solid red;
+  padding: 5px;
+  margin: 5px;
+  background-color: green;
+  padding: 10px;
+}

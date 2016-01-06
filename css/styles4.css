@@ -1,0 +1,32 @@
+.sidebar {
+  width: 600;
+  float: right;
+}
+
+p {
+  font-size: 14px;
+  font-style: normal;
+  font-weight: normal;
+  font-family: serif;
+}
+
+h2 {
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+  font-size: 50px;
+  font-weight: bold;
+}
+
+p.dogtext {
+  border: 4px solid blue;
+  margin: 12px;
+  padding: 10px;
+  background-color: yellow;
+}
