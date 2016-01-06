@@ -1,0 +1,24 @@
+p.intro {
+  font-size: bold;
+  font-family: cursive;
+  text-align: center;
+  font-size: 10px;
+}
+
+p.good {
+  font-size: 20px;
+  font-style: italic;
+  text-align: center;
+}
+
+p.bad {
+  font-size: 30px;
+  font-style: italic;
+  text-align: center;
+}
+
+h1.head {
+  font-size: 30px;
+  font-style: italic;
+  text-align: center;
+}
